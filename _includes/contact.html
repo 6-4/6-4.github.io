@@ -1,0 +1,39 @@
+<section id="contact">
+  <div class="container hidden-sm hidden-xs">
+      <div class="row">
+          <div class="col-lg-2 col-lg-offset-2 text-center">
+              <a href="https://twitter.com/{{ site.twitter_username }}">
+                  <i class="fa fa-twitter fa-3x"></i>
+                  <p>Twitter: {{ site.twitter_username }}</p>
+              </a>
+          </div>
+          <div class="col-lg-2 col-lg-offset-1 text-center">
+              <a href="mailto:{{ site.email }}">
+              <i class="fa fa-envelope-o fa-3x"></i>
+                  <p class="email">Email: {{ site.email }}</p>
+              </a>
+              <p class="text-muted small">请勿用国内邮箱联系</p>
+          </div>
+          <div class="col-lg-2 col-lg-offset-1 text-center">
+              <a href="https://github.com/{{ site.github_username }}">
+              <i class="fa fa-github fa-3x"></i>
+                  <p>Github: {{ site.github_username }}</p>
+              </a>
+          </div>
+      </div>
+  </div>
+  <div class="container hidden-md hidden-lg">
+    <div class="row text-center">
+      <div class="list-group">
+        <a class="list-group-item" href="https://twitter.com/{{ site.twitter_username }}">Twitter: {{ site.twitter_username }}</a>
+        <a class="list-group-item" href="mailto:{{ site.email }}?body=请勿用国内邮箱联系，注意安全哦">Email: {{ site.email }}</a>
+        <a class="list-group-item" href="https://github.com/{{ site.github_username }}">Github: {{ site.github_username }}</a>
+      </div>
+    </div>
+  </div>
+  <div class="container">
+    <div class="row text-center">
+      <p>2017, <a href="{{site.url}}">{{site.url}}</a></p>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,14 @@
+图片的出处：
+64.jpg, 64_2.jpg: http://www.parentsconcern.hk/64kidssharing/
+tank_man.jpg (header): Jeff Widener/Associated Press
+header-vertical.jpg: 未知，Google 搜 tank man uncropped 可以找到
+
+制作过程中参考了 https://okok1111111111.blogspot.com/2014/05/june-fourth-incident-protests-in_30.html
+
+目前主要的图片来自大西洋月刊的这个网页: https://www.theatlantic.com/photo/2012/06/tiananmen-square-then-and-now/100311/
+
+大事记来自 http://1989report.hkja.org.hk/site/portal/Site.aspx?id=A27-135, 替换掉了一些晦涩的语言，以便现代青年理解。
+
+网站主题: https://volny.github.io/creative-theme-jekyll/
+
+视频部分，文件名称就是对应的 YouTube id, 比如 qq8zFLIftGk.mp4 就来自 https://www.youtube.com/watch?v=qq8zFLIftGk (可以直接用 id 在 YouTube 搜出来。)
