@@ -12,3 +12,5 @@ header-vertical.jpg: 未知，Google 搜 tank man uncropped 可以找到
 网站主题: https://volny.github.io/creative-theme-jekyll/
 
 视频部分，文件名称就是对应的 YouTube id, 比如 qq8zFLIftGk.mp4 就来自 https://www.youtube.com/watch?v=qq8zFLIftGk (可以直接用 id 在 YouTube 搜出来。)
+
+死难者名单来自 64memo.com, 参考了廖亦武《子弹鸦片》的附录。
